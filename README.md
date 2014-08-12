@@ -25,7 +25,7 @@ to create a next-generation, truly modular (built from [node.js modules](http://
 - data is validatable (with hashes or signatures)
 - data is securable (with encryption)
 - data services are de-coupled from views
-- views are components that take in input events, render, and output events (one-directional like https://raynos.github.io/forwardjs2014-talk/)
+- views are composable, [one-directional](https://raynos.github.io/forwardjs2014-talk/) components
 - generic views can be generated from data and relevant hypermedia
 
 ## modules
