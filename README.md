@@ -2,7 +2,7 @@
 
 ## charter
 
-to create a truly modular (built from [npm modules](http://npmjs.org)), full-stack javascript framework that interoperates with the [Open App Ecosystem](https://github.com/open-app/core).
+to create a next-generation, truly modular (built from [npm modules](http://npmjs.org)), full-stack javascript framework that interoperates with the [Open App Ecosystem](https://github.com/open-app/core).
 
 ## use cases
 
