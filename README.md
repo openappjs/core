@@ -4,7 +4,7 @@
 
 to create a next-generation, truly modular (built from [npm modules](http://npmjs.org)), full-stack javascript framework that interoperates with the [Open App Ecosystem](https://github.com/open-app/core).
 
-## use cases
+## feature requirements
 
 - resources are commonly understood entities (Linked Data vocabularies)
 - holons (people and recursive groups) are identities
