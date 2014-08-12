@@ -23,6 +23,7 @@ to create a next-generation, truly modular (built from [npm modules](http://npmj
 - data services employ conflict resolution algorithms on transactions
 - data is immutable and flows instead of changes (consequence of all the above)
 - data is validatable (with hashes or signatures)
+- data is securable (with encryption)
 - data services are de-coupled from views
 - views are components that take in input events, render, and output events (one-directional like https://raynos.github.io/forwardjs2014-talk/)
 - generic views can be generated from data and relevant hypermedia
