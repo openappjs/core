@@ -28,6 +28,14 @@ to create a next-generation, truly modular (built from [node.js modules](http://
 - views are composable, [one-directional](https://raynos.github.io/forwardjs2014-talk/) components
 - generic views can be generated from data and relevant hypermedia
 
-## modules
+## sub ecosystems
 
-TODO
+- [mercury](https://github.com/Raynos/mercury)
+- [leveldb](http://leveldb.org/)
+- [secure-scuttlebutt](https://github.com/dominictarr/secure-scuttlebutt)
+- [jshttp](https://jshttp.github.io/)
+- [pillarjs](https://github.com/pillarjs)
+- [graft](https://github.com/graftjs/graft)
+- [node-organic](http://node-organic.com)
+
+and more
